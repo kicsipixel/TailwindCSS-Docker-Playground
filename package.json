@@ -1,0 +1,14 @@
+{
+  "name": "tailwindcss_playground",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "TailwindCSS Playground on Docker using Express",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js & npx tailwindcss -i ./src/input.css -o ./src/output.css --watch"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "tailwindcss": "^3.4.3"
+  }
+}
