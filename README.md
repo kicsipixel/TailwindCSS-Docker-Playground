@@ -1,5 +1,5 @@
 # TailwindCSS-Docker-Playground
-## Setup an playground easily without install Node.js or TailindCSS
+## Setup an playground easily without install Node.js or TailwindCSS
 
 ### Step 1. Clone the repo
 
